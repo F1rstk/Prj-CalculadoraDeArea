@@ -1,0 +1,18 @@
+C:\Users\filipe.sdiniz\source\repos\Calculadora de Areas2\bin\Debug\net6.0-windows\Calculadora de Areas2.exe
+C:\Users\filipe.sdiniz\source\repos\Calculadora de Areas2\bin\Debug\net6.0-windows\Calculadora de Areas2.deps.json
+C:\Users\filipe.sdiniz\source\repos\Calculadora de Areas2\bin\Debug\net6.0-windows\Calculadora de Areas2.runtimeconfig.json
+C:\Users\filipe.sdiniz\source\repos\Calculadora de Areas2\bin\Debug\net6.0-windows\Calculadora de Areas2.dll
+C:\Users\filipe.sdiniz\source\repos\Calculadora de Areas2\bin\Debug\net6.0-windows\Calculadora de Areas2.pdb
+C:\Users\filipe.sdiniz\source\repos\Calculadora de Areas2\obj\Debug\net6.0-windows\Calculadora de Areas2.csproj.AssemblyReference.cache
+C:\Users\filipe.sdiniz\source\repos\Calculadora de Areas2\obj\Debug\net6.0-windows\Calculadora_de_Areas2.Form1.resources
+C:\Users\filipe.sdiniz\source\repos\Calculadora de Areas2\obj\Debug\net6.0-windows\Calculadora_de_Areas2.Properties.Resources.resources
+C:\Users\filipe.sdiniz\source\repos\Calculadora de Areas2\obj\Debug\net6.0-windows\Calculadora de Areas2.csproj.GenerateResource.cache
+C:\Users\filipe.sdiniz\source\repos\Calculadora de Areas2\obj\Debug\net6.0-windows\Calculadora de Areas2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filipe.sdiniz\source\repos\Calculadora de Areas2\obj\Debug\net6.0-windows\Calculadora de Areas2.AssemblyInfoInputs.cache
+C:\Users\filipe.sdiniz\source\repos\Calculadora de Areas2\obj\Debug\net6.0-windows\Calculadora de Areas2.AssemblyInfo.cs
+C:\Users\filipe.sdiniz\source\repos\Calculadora de Areas2\obj\Debug\net6.0-windows\Calculadora de Areas2.csproj.CoreCompileInputs.cache
+C:\Users\filipe.sdiniz\source\repos\Calculadora de Areas2\obj\Debug\net6.0-windows\Calculadora de Areas2.dll
+C:\Users\filipe.sdiniz\source\repos\Calculadora de Areas2\obj\Debug\net6.0-windows\refint\Calculadora de Areas2.dll
+C:\Users\filipe.sdiniz\source\repos\Calculadora de Areas2\obj\Debug\net6.0-windows\Calculadora de Areas2.pdb
+C:\Users\filipe.sdiniz\source\repos\Calculadora de Areas2\obj\Debug\net6.0-windows\Calculadora de Areas2.genruntimeconfig.cache
+C:\Users\filipe.sdiniz\source\repos\Calculadora de Areas2\obj\Debug\net6.0-windows\ref\Calculadora de Areas2.dll
